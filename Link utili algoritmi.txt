@@ -1,0 +1,18 @@
+Per molti esercizi spiegati e risolti:
+https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g
+
+Problemi di programmazione dinamica:
+https://www.youtube.com/watch?v=oBt53YbR9Kk
+
+Spiegazione ottima di tutta la teoria:
+https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
+https://www.youtube.com/watch?v=8hly31xKli0
+
+Altra ottima spiegazione di vari concetti di teoria (RB Trees in particolare):
+https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w
+
+Raccolta esercizi:
+https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f
+https://medium.com/techie-delight/heap-practice-problems-and-interview-questions-b678ff3b694c
+https://medium.com/techie-delight/top-50-dynamic-programming-practice-problems-4208fed71aa3
+https://kingrayhan.medium.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0

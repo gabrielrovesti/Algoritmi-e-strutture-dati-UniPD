@@ -1,0 +1,52 @@
+
+Corso: Algoritmi e Strutture Dati (2014-2015)
+Docente: Baldan Paolo
+
+
+
+Obiettivi del corso
+
+Il corso intende fornire un'introduzione agli algoritmi, ovvero alla formalizazione dei problemi, all'individuazione di soluzioni computazionali, e all'analisi di tali soluzioni, dal punto di vista della correttezza e dell'efficienza nell'uso di risorse. Verranno illustrati alcuni algoritmi e strutture dati fondamentali che sono alla base dello sviluppo di ogni sistema software. Il corso contribuisce a sviluppare una sensibilitè per la realizzazione di programmi efficienti e corretti. Il corso dà luogo al conseguimento di 8 CFU.
+
+
+
+Programma di massima del corso
+
+1)
+Fondamenti.
+Notazione per gli algoritmi.
+Primi esempi di algoritmi: tecniche di analisi e progettazione.
+Metodo incrementale (insertion sort).
+Divide et impera (merge sort).
+Analisi di complessità e notazione asintotica.
+2)
+Ordinamento.
+Heapsort, quicksort e ordinamento in tempo lineare (Counting Sort e Radix Sort).
+3)
+Strutture dati fondamentali.
+Pile e code.
+Liste.
+Tabelle hash.
+Alberi di ricerca.
+4)
+Tecniche avanzate di progettazione ed analisi degli algoritmi.
+Programmazione dinamica.
+Algoritmi greedy.
+Analisi ammortizzata.
+5)
+Strutture dati avanzate.
+B-alberi.
+
+
+
+Modalità d'Esame
+
+- prova scritta
+domande ed esercizi sul contenuto del corso. 
+- registrazione
+con possibile colloquio orale (discussione dello scritto con eventuali domande di teoria), nello stesso appello nel quale si sostiene lo scritto.
+
+
+
+pagina dedicata:
+http://www.math.unipd.it/~baldan/Algoritmi/

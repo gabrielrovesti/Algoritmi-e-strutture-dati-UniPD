@@ -1,0 +1,12 @@
+
+consiglio la consultazione (anche sommaria) delle seguenti pagine,
+sono utili per capire grosso modo come vengono classificati e suddivisi gli algoritmi
+
+
+https://it.wikipedia.org/wiki/Algoritmo_di_ordinamento
+
+https://it.wikipedia.org/wiki/Algoritmi_di_ordinamento_adattivi
+
+https://it.wikipedia.org/wiki/Algoritmi_di_ordinamento_comparativi
+
+https://it.wikipedia.org/wiki/O-grande [tabella a fondo pagina]

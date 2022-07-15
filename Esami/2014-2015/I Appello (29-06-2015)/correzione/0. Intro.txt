@@ -1,0 +1,37 @@
+
+
+- domanda 1:
+master theorem -> caso 1 -> T(n)=theta(n^2)
+
+
+
+- domanda 2:
+huffmann, guarda sulle slide e/o appunti, è solo da applicare quanto detto e spiegare a parole i passaggi (come ha fatto lui a lezione)
+
+
+
+- domanda 3:
+la proprietà di MaxHeap è rispettata se ogni nodo è maggiore dei suoi figli, quindi basta controllare uno per uno tutti i nodi, se si arriva alla fine è "true", altrimenti è "false".
+complessità: O(n)
+
+
+
+- esercizio 1:
+il modo più banale per farlo e prendere uno ad uno tutti gli elementi dell'array A e confrontarli con tutti gli elementi dell'array B, fermandosi non appena l'elemento in analisi (dell'array A) è <= di tutti quelli di B.
+complessità O(n^2) (dovuta ad un doppio ciclo annidato)
+
+una soluzione in O(2n) = O(n) è questa:
+n=A.size, j=1
+for(i=1 to n) {
+while(j<=n && A[i]<=B[j]) {
+j++
+}
+if(j==n+1) {
+return A[i]
+}
+}
+
+
+
+- esercizio 2:
+programmazione dinamica...
