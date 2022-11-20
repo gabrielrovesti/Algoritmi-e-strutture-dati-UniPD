@@ -1,4 +1,4 @@
-# Algoritmi-e-strutture-dati--UniPd
+# Algoritmi-e-strutture-dati-UniPD
 
 Raccolta di lezioni, esercizi, appunti e libro
 del corso di Algoritmi e Strutture Dati di Baldan
