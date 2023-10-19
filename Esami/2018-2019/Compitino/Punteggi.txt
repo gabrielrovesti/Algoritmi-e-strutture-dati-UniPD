@@ -1,6 +1,0 @@
-Es 1: 10 punti
-Es 2: 10 punti
-Es 3: 10 punti
-TOT : 30 punti
-
-Il punteggio ottenuto viene diviso per 10 e poi aggiunto come bonus all'esame intero. Il prof tiene conto del bonus, se al compitino sono stati totalizzati almeno 10/30
